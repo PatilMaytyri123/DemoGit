@@ -26,4 +26,9 @@ public class Selenium {
 			System.out.println(" Automation");
 			System.out.println("Web Automation ");
 		}
+		
+		@Test
+		public void Selenium() {
+			System.out.println("selenium is  testing tool");
+		}
 }
