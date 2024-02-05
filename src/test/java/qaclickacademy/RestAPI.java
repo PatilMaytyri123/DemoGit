@@ -20,6 +20,20 @@ public class RestAPI {
 		System.out.println("Post Jira 10");
 	
 
+
+	}
+	
+	@Test
+	public void deleteTwitter() {
+		
+		System.out.println("Twitter");
+		System.out.println("mayuri");
+	}
+	@Test
+	public void deleteTwitterApp() {
+		
+		System.out.println("Twitterrr");
+
 	}
 	
 }
