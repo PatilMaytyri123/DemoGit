@@ -12,5 +12,18 @@ public class Selenium {
 		System.out.println("Web Automation ");
 		System.out.println("websevices");
 	}
-
+	@Test
+	public void BrowserAuto() {
+		
+		
+		System.out.println("selenium Automation");
+		System.out.println(" Automation ");
+	}
+		@Test
+		public void BrowAutomation() {
+			
+			
+			System.out.println(" Automation");
+			System.out.println("Web Automation ");
+		}
 }

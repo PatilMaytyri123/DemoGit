@@ -19,7 +19,18 @@ public class RestAPI {
 		System.out.println("Post Jira 7");
 		System.out.println("Post Jira 10");
 	
->>>>>>> 6a74ead9313fd6637e36ed0b48c6d476730b91d8
+
+	}
+	
+	@Test
+	public void deleteTwitter() {
+		
+		System.out.println("Twitter");
+	}
+	@Test
+	public void deleteTwitterApp() {
+		
+		System.out.println("Twitterrr");
 	}
 	
 }
